@@ -2,7 +2,7 @@
 In this task, I enhanced the contact page by building a user-interactive form. The goal was to implement client-side data validation using only HTML5 attributes to ensure data integrity before submission.
 
 Features Implemented:
-Semantic Form Elements: Used <form>, <label>, <input>, and <textarea> to create a structured and accessible input area.
+Semantic Form Elements: Used form, label, input, and textarea to create a structured and accessible input area.
 
 HTML5 Input Types: Utilized specific types like type="email" and type="tel" to trigger browser-specific behaviors (like mobile keyboard optimizations).
 
