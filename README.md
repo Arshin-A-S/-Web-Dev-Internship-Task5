@@ -14,6 +14,6 @@ maxlength: Limits name input to prevent excessively long strings.
 
 pattern: Used a Regex pattern [0-9]{10} to validate that the phone number contains exactly 10 digits.
 
-Accessibility (A11y): Explicitly linked labels to inputs using the for and id attributes, allowing screen readers to identify form fields correctly.
+Accessibility: Explicitly linked labels to inputs using the for and id attributes, allowing screen readers to identify form fields correctly.
 
 Visual Feedback: Styled the form using CSS pseudo-classes (:invalid and :valid) to provide real-time color cues to the user as they type.
